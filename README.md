@@ -7,7 +7,7 @@ To report an issue or bug, open an issue in issue tab.
 Thank you!
 
 Changelog:
-# 1.1.0.0
+# 1.1.0.0    
     - fixed flying trees
     - fixed missing language tags
     - removed street posts in field 1
@@ -39,3 +39,4 @@ Changelog:
     - added compost station
     - new PDA style
     - added workshop to main farm
+    - fixed milk stand discharge
