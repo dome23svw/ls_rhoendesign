@@ -40,3 +40,21 @@ Changelog:
     - new PDA style
     - added workshop to main farm
     - fixed milk stand discharge
+    - more ai splines
+    - main farm edits
+    - mission vehicle edits
+    - stone haep spawner at compost Station
+    - added bale storage at mainFarm
+    - sellingStation for Stones
+    - digestate distance texture
+    - detonation station and basalt area
+    - added basalt Factory
+    - added fruit orchard and apples
+    - changed production costs
+    - added compost Pallet
+    - added character nodes at static vehicles
+    - gardens need compost
+    - new street signs
+    - compost factory produce pallets
+    - different compostSoil texture
+    - add pallet of compost to garden
