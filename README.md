@@ -58,3 +58,8 @@ Changelog:
     - compost factory produce pallets
     - different compostSoil texture
     - add pallet of compost to garden
+    - added grainSilo at chicken Barn
+    - added jamStove and jam
+    - fixed sawMill fillPlane
+    - added objectStorage for fruits next to jamStove
+    - renewed farmShop
