@@ -1,10 +1,12 @@
-# ls_rhoendesign
-This is my repo for handling issues of my mods.
-You can also use my Discord Server https://discord.gg/mD2qWf7jeb
+# ls_rhoendesign  
 
-To report an issue or bug, open an issue in issue tab.
+This is my repository for reporting and tracking issues related to my mods.  
 
-Thank you!
+You are also welcome to join my [Discord server](https://discord.gg/mD2qWf7jeb) to be part of the community. There, you can contribute your ideas for the development of the map, take part in surveys, and follow ongoing discussions.  
+
+If you encounter a problem, you might already find the solution in the Discord chats or in my “How-To” videos on Instagram: [@ls_rhoendesign](https://www.instagram.com/ls_rhoendesign?igsh=NjZicWx2N3A0eGRp).  
+
+Thank you, and have fun!
 
 Changelog:
 # 1.1.0.0    
