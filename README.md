@@ -62,7 +62,7 @@ Changelog:
     - add pallet of compost to garden
     - added grainSilo at chicken Barn
 
-#1.2.0.0
+# 1.2.0.0
     - added triggerMarkers in garden
     - fixed garden palletSpawn
     - fixed licensePlates
