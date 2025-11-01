@@ -61,6 +61,30 @@ Changelog:
     - different compostSoil texture
     - add pallet of compost to garden
     - added grainSilo at chicken Barn
+
+#1.2.0.0
+    - added triggerMarkers in garden
+    - fixed garden palletSpawn
+    - fixed licensePlates
+    - new loading screen
+    - new grain mill
+    - added lavender and lavender oil
+    - added basaltPavement texture
+    - added selling Points
+    - added onioncake and dumpling dough
+    - added countrywoman kitchen
+    - added vegetables silo next to garden
+    - added raspberry, raspberry bush and raspberry jam
+    - joined calfHusbandrys
+    - added factory lifter at vehicle Shop
+    - new modIcon
+    - added more ground angles
+    - added firewood and sawShed at main farm
+    - use meadow models as grass and edit the config
+    - changed garden config
+    - added wash lance at mainFarm
+    - redesigned vehicle Shop, sawMill, sheep farm, chicken farm and pig farm
+    - added new houses from mod
     - added jamStove and jam
     - fixed sawMill fillPlane
     - added objectStorage for fruits next to jamStove
